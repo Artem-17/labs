@@ -1,0 +1,30 @@
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.exe.config
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.exe
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.pdb
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\bin\Debug\TrapezeLib.dll
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\bin\Debug\TrapezeLib.pdb
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csprojAssemblyReference.cache
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csproj.CopyComplete
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.exe
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.pdb
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.exe.config
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.exe
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.pdb
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\bin\Debug\TrapezeLib.dll
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\bin\Debug\TrapezeLib.pdb
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.exe
+C:\Users\Пользователь\Desktop\ООР\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.pdb
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.exe.config
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.exe
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\bin\Debug\TrapezeApp.pdb
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\bin\Debug\TrapezeLib.dll
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\bin\Debug\TrapezeLib.pdb
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.exe
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeApp\obj\Debug\TrapezeApp.pdb

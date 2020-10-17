@@ -1,0 +1,12 @@
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeLib\bin\Debug\TrapezeLib.dll
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeLib\bin\Debug\TrapezeLib.pdb
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.csprojAssemblyReference.cache
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.dll
+C:\Users\stani\OneDrive\Рабочий стол\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.pdb
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeLib\bin\Debug\TrapezeLib.dll
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeLib\bin\Debug\TrapezeLib.pdb
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.dll
+C:\Users\Пользователь\Desktop\ООР\Л.р.1\TrapezeApp\TrapezeLib\obj\Debug\TrapezeLib.pdb
